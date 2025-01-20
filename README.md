@@ -6,7 +6,7 @@ Lending services companies allow individual investors to partially fund personal
 Use this data to create machine learning models to classify the risk level of given loans. Specifically, you will be comparing the Logistic Regression model and Random Forest Classifier.
 
 #### Problem: ####
-Create and compare two models on this data: a logistic regression, and a random forests classifier. Before creating, fit, and score the models, make a prediction as to which model you think will perform better. You do not need to be correct! Write down (in markdown cells in your Jupyter Notebook) your prediction, and provide justification for your educated guess.
+Create and compare two models on this data: a logistic regression, and a random forests classifier.
 
 #### Analysis: ####
 The dataset does not contain any null values and consists of integers or floats, so minimal data cleansing was required before testing.The data presents a positive trend which is shown with the use of a histogram.
